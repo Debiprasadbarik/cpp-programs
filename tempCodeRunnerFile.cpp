@@ -1,0 +1,1 @@
+cout<<"\nScore: "<<score<<endl;
